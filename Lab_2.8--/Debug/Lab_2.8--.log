@@ -1,0 +1,9 @@
+﻿  Bill.cpp
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Bill.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Bill.cpp(152,14): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Bill.cpp(234,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Source.cpp(4,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Source.cpp(101,8): warning C4930: 'Bill s(void)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  Lab_2.8--.vcxproj -> F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Debug\Lab_2.8--.exe

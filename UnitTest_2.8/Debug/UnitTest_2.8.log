@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest_2.8.cpp
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\UnitTest_2.8\UnitTest_2.8.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Bill.cpp(152,14): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Lab_2.8--\Bill.cpp(234,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Debug\UnitTest_2.8.lib and object F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Debug\UnitTest_2.8.exp
+  UnitTest_2.8.vcxproj -> F:\ООП\Тема 2\Lab_2.8\Lab_2.8--\Debug\UnitTest_2.8.dll
